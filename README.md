@@ -1,0 +1,1 @@
+execute o **composer install** para instalar os pacotes e depois **php -S localhost:8080** para usar o servidor embutido do PHP
